@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+/* Palette: a field at night game. Gold means correct everywhere. */
+@theme static {
+  --color-turf: #1e6b45;
+  --color-turf-deep: #14502f;
+  --color-chalk: #f4f6f0;
+  --color-ink: #14213d;
+  --color-gold: #f7c325;
+  --color-flag: #c43a27;
+
+  --shadow-hard: 6px 6px 0 0 #14213d;
+  --shadow-hard-sm: 3px 3px 0 0 #14213d;
+}
+
+@theme inline {
+  --font-display: var(--font-alfa), Rockwell, "Roboto Slab", Georgia, serif;
+  --font-sans: var(--font-work), system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html {
+  background-color: var(--color-turf-deep);
+}
+
+/* Mowing stripes, like a freshly cut field. */
+body {
+  min-height: 100dvh;
+  color: var(--color-chalk);
+  background-color: var(--color-turf);
+  background-image: repeating-linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.07) 0,
+    rgba(0, 0, 0, 0.07) 64px,
+    transparent 64px,
+    transparent 128px
+  );
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-ink);
+  outline-offset: 3px;
+}
+
+/* Motion that responds to something the player did. */
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes pop {
+    from {
+      opacity: 0;
+      transform: translateY(6px) scale(0.98);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  .animate-pop {
+    animation: pop 180ms ease-out;
+  }
+}

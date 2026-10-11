@@ -1,0 +1,103 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Bryce Young,QB,0,0,2,23,50,Alabama
+2,C.J. Stroud,QB,0,1,3,33,50,Ohio St.
+3,Will Anderson,LB,1,2,3,37,50,Alabama
+4,Anthony Richardson,QB,0,0,1,9,17,Florida
+5,Devon Witherspoon,DB,0,3,3,26,47,Illinois
+6,Paris Johnson,OL,0,0,3,19,47,Ohio St.
+7,Tyree Wilson,OLB,0,0,0,8,53,Texas Tech
+8,Bijan Robinson,RB,1,2,3,36,55,Texas
+9,Jalen Carter,DL,0,2,2,24,47,Georgia
+10,Darnell Wright,OL,0,0,3,24,53,Tennessee
+11,Peter Skoronski,OL,0,0,3,15,52,Northwestern
+12,Jahmyr Gibbs,RB,0,3,1,40,53,Alabama
+13,Lukas Van Ness,DL,0,0,0,4,47,Iowa
+14,Broderick Jones,OL,0,0,3,18,50,Georgia
+15,Will McDonald,DE,0,0,2,15,51,Iowa St.
+16,Emmanuel Forbes,CB,0,0,1,9,43,Mississippi St.
+17,Christian Gonzalez,DB,0,1,2,19,37,Oregon
+18,Jack Campbell,LB,1,1,3,26,55,Iowa
+19,Calijah Kancey,DL,0,0,1,13,34,Pittsburgh
+20,Jaxon Smith-Njigba,WR,1,2,2,30,55,Ohio St.
+21,Quentin Johnston,WR,0,0,3,16,50,TCU
+22,Zay Flowers,WR,0,2,3,33,53,Boston Col.
+23,Jordan Addison,WR,0,0,3,20,50,USC
+24,Deonte Banks,DB,0,0,2,12,47,Maryland
+25,Dalton Kincaid,TE,0,1,2,17,45,Utah
+26,Mazi Smith,DL,0,0,1,9,43,Michigan
+27,Anton Harrison,OL,0,0,3,23,52,Oklahoma
+28,Myles Murphy,DE,0,0,1,7,51,Clemson
+29,Bryan Bresee,DT,0,0,2,15,49,Clemson
+30,Nolan Smith,OLB,0,0,1,13,49,Georgia
+31,Felix Anudike-Uzomah,DE,0,0,0,4,38,Kansas St.
+32,Joey Porter Jr.,CB,0,0,3,14,48,Penn St.
+33,Will Levis,QB,0,0,2,11,21,Kentucky
+34,Sam LaPorta,TE,0,1,3,21,46,Iowa
+35,Michael Mayer,TE,0,0,2,7,42,Notre Dame
+36,Steve Avila,C,0,0,2,19,46,TCU
+37,Derick Hall,DE,0,0,1,13,52,Auburn
+38,Matthew Bergeron,OL,0,0,3,17,53,Syracuse
+39,Jonathan Mingo,WR,0,0,1,4,43,Mississippi
+40,Isaiah Foskey,DL,0,0,0,2,35,Notre Dame
+41,BJ Ojulari,DE,0,0,0,1,25,LSU
+42,Luke Musgrave,TE,0,0,2,6,35,Oregon St.
+43,Joe Tippmann,OL,0,0,3,16,54,Wisconsin
+44,Julius Brents,DB,0,0,0,4,22,Kansas St.
+45,Brian Branch,DB,0,1,3,15,43,Alabama
+46,Keion White,DL,0,0,1,12,51,Georgia Tech
+47,Quan Martin,DB,0,0,2,11,53,Illinois
+48,Cody Mauch,T,0,0,2,16,41,North Dakota St.
+49,Keeanu Benton,NT,0,0,3,17,55,Wisconsin
+50,Jayden Reed,WR,0,0,1,19,42,Michigan St.
+51,Cam Smith,DB,0,0,0,1,21,South Carolina
+52,Zach Charbonnet,RB,0,0,0,16,49,UCLA
+53,Gervon Dexter,DL,0,0,2,17,53,Florida
+54,Tuli Tuipulotu,DL,0,1,3,21,54,USC
+55,Rashee Rice,WR,0,0,0,16,32,SMU
+56,Tyrique Stevenson,CB,0,0,3,14,49,Miami (FL)
+57,John Michael Schmitz,OL,0,0,3,14,44,Minnesota
+58,Luke Schoonmaker,TE,0,0,0,4,56,Michigan
+59,O'Cyrus Torrence,OL,0,0,3,23,55,Florida
+60,DJ Turner,DB,0,0,3,12,49,Michigan
+61,Brenton Strange,TE,0,0,2,8,47,Penn St.
+62,Juice Scruggs,OL,0,0,1,7,41,Penn St.
+63,Marvin Mims,WR,1,2,0,13,50,Oklahoma
+64,Zacch Pickens,DL,0,0,0,3,29,South Carolina
+65,Tyler Steen,OL,0,0,1,10,49,Alabama
+66,Sydney Brown,DB,0,0,0,5,46,Illinois
+67,Drew Sanders,LB,0,0,0,2,21,Arkansas
+68,Hendon Hooker,QB,0,0,0,0,3,Tennessee
+69,Tank Dell,WR,0,0,1,12,25,Houston
+70,Byron Young,DL,0,0,0,2,27,Alabama
+71,Kendre Miller,RB,0,0,0,4,24,TCU
+72,Garrett Williams,DB,0,0,2,9,37,Syracuse
+73,Jalin Hyatt,WR,0,0,0,3,41,Tennessee
+74,Cedric Tillman,WR,0,0,1,6,38,Tennessee
+75,Zach Harrison,DE,0,0,0,5,43,Ohio St.
+76,Marte Mapu,DB,0,0,0,7,44,Sacramento St.
+77,Byron Young,LB,0,1,3,25,55,Tennessee
+78,Tucker Kraft,TE,0,0,1,15,46,South Dakota St.
+79,Josh Downs,WR,0,0,2,19,51,North Carolina
+80,DJ Johnson,OLB,0,0,0,3,31,Oregon
+81,Tyjae Spears,RB,0,0,0,13,46,Tulane
+82,YaYa Diaby,DL,0,0,2,19,56,Louisville
+83,Riley Moss,DB,0,0,2,12,49,Iowa
+84,De'Von Achane,RB,0,1,2,31,47,Texas A&M
+85,Daiyan Henley,LB,0,0,2,18,52,Washington St.
+86,Trenton Simpson,LB,0,0,1,11,53,Clemson
+87,Ji'Ayir Brown,S,0,0,2,11,53,Penn St.
+88,Tank Bigsby,RB,0,0,0,8,54,Auburn
+89,Kobie Turner,DT,0,0,2,20,55,Wake Forest
+90,DeMarvion Overshown,LB,0,0,1,8,20,Texas
+91,Dorian Williams,LB,0,0,2,13,54,Tulane
+92,Wanya Morris,OL,0,0,1,8,43,Oklahoma
+93,Darnell Washington,TE,0,0,2,7,54,Georgia
+94,Michael Wilson,WR,0,0,3,18,50,Stanford
+95,Jordan Battle,DB,0,0,1,12,55,Alabama
+96,Brodric Martin,DT,0,0,0,1,6,Western Kentucky
+97,Ricky Stromberg,OL,0,0,0,0,4,Arkansas
+98,Siaki Ika,DL,0,0,0,0,4,Baylor
+99,Jake Moody,K,0,0,1,5,40,Michigan
+100,Tre Tucker,WR,0,0,2,13,54,Cincinnati
+101,Cameron Latu,TE,0,0,0,0,19,Alabama
+102,Mekhi Blackmon,CB,0,0,1,6,36,USC

@@ -1,0 +1,1532 @@
+{
+  "Abilene Christian": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Air Force": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Akron": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Alabama": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Alabama A&M": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Alabama State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Albany State (GA)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Albion College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Appalachian State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Arizona": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Arizona State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Arkansas": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Arkansas State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Arkansas-Pine Bluff": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Ashland": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Auburn": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "BYU": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Ball State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Baylor": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "unsure"
+  },
+  "Bethel College (Tenn.)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Bloomsburg": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Boise State": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Boston College": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Bowling Green": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "British Columbia": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Bucknell": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Buffalo": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Cal Poly (San Luis Obispo)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "California": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "California (PA)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Central Arkansas": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Central Michigan": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Central Missouri": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Chadron State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Charleston": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Charlotte": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Chattanooga": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Cincinnati": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Clemson": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Coastal Carolina": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Colorado": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "unsure"
+  },
+  "Colorado State": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Colorado State (Pueblo)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Concordia College St. Paul": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Connecticut": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Cornell": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Dayton": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Delaware": {
+    "rating": 3,
+    "evidence": "Nationally known FCS program; FCS national champion in 2003. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Delaware State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Drake": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Duke": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "East Carolina": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "East Texas A&M": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Eastern Illinois": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Eastern Kentucky": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Eastern Michigan": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Eastern Washington": {
+    "rating": 2,
+    "evidence": "FCS (Big Sky) program, FCS national champion in 2010; little visibility beyond FCS followers. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Elon": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Fayetteville State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Ferris State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Findlay": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Florida": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Florida A&M": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Florida Atlantic": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Florida International": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Florida State": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Fordham": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Fort Hays": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Fresno State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Furman": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Georgia": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Georgia Southern": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Georgia State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Georgia Tech": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Grambling State": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Grand Valley": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Hampton": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Harding": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Harvard": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Hawaii": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Hobart": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Holy Cross": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Houston": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Houston Christian": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Humboldt State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Idaho": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Illinois": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Illinois State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Indiana": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Iowa": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Iowa State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Jackson State": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Jacksonville State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "James Madison": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Kansas": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Kansas State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "unsure"
+  },
+  "Kennesaw State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Kent State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Kentucky": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Kutztown": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "LSU": {
+    "rating": 5,
+    "evidence": "Major SEC program; national champion in 2003, 2007 and 2019. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Lamar": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Lehigh": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Lenoir Rhyne": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Liberty": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Lindenwood": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Louisiana": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Louisiana Tech": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Louisville": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "unsure"
+  },
+  "Maine": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Manitoba (Canada)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Marist": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Mars Hill": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Marshall": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Maryland": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "McGill": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Memphis": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Miami (FL)": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Miami (OH)": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Michigan": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Michigan State": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Middle Tennessee State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Midwestern State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Minnesota": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Mississippi State": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Missouri": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "unsure"
+  },
+  "Missouri Southern": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Missouri State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Missouri Western": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Monmouth": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Montana": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Montana State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Morgan State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Mount Union College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Murray State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "NC State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "unsure"
+  },
+  "NW Missouri State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Navy": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Nebraska": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Nevada": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "New Hampshire": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "New Mexico": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "New Mexico State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Newberry": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "North Alabama": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "North Carolina": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "North Carolina A&T": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "North Carolina Central": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "North Dakota": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "North Dakota State": {
+    "rating": 3,
+    "evidence": "Nationally known FCS program with a long run of FCS national titles since 2011. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "North Texas": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Northeastern State (Ok)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Northern Illinois": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Northern Iowa": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Northwestern": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Northwestern State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Notre Dame": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Ohio": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Ohio State": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Oklahoma": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Oklahoma State": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Old Dominion": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Ole Miss": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Oregon": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Oregon State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Ouachita Baptist": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Penn": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Penn State": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Pittsburg State (KS)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Pittsburgh": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Portland State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Prairie View A&M": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Presbyterian College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Princeton": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Purdue": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Regina": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Rhode Island": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Rice": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Richmond": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Rutgers": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "SMU": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Sacramento State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Saginaw Valley State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Sam Houston State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Samford": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "San Diego": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "San Diego State": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "San Jose State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Sioux Falls": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Slippery Rock": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "South Alabama": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "South Carolina": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "South Carolina State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "South Dakota": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "South Dakota State": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "South Florida": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southeast Missouri State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southeastern Louisiana": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southern": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southern Illinois": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southern Mississippi": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southern Utah": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "St. John's (MN)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Stanford": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Stephen F. Austin State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Syracuse": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "TCU": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Tarleton State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Temple": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Tennessee": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Tennessee State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Texas": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Texas A&M": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Texas State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Texas Tech": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "The Citadel": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Toledo": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Towson": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Troy": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Tulane": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Tulsa": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UAB": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UCF": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UCLA": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UL Monroe": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UMass": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UNLV": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "USC": {
+    "rating": 5,
+    "evidence": "Elite national football brand; casual NFL fans very likely to recognize it. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UT Martin": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UTEP": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UTSA": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Utah": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Utah State": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Valdosta State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Vanderbilt": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Villanova": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Virginia": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Virginia State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Virginia Tech": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Wagner": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Wake Forest": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Washburn": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Washington": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Washington State": {
+    "rating": 3,
+    "evidence": "Moderately recognizable FBS program or nationally known FCS program. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Weber State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "West Alabama": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "West Georgia": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "West Texas State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "West Virginia": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Western Carolina": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Western Illinois": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Western Kentucky": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Western Michigan": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "William & Mary": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Wingate": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Wisconsin": {
+    "rating": 4,
+    "evidence": "Major program with sustained national relevance and media exposure. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Wisconsin-Whitewater": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Wyoming": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Yale": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Youngstown State": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Duquesne": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UC Davis": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Tusculum College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Campbell": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Azusa Pacific": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Shepherd": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Army": {
+    "rating": 2,
+    "evidence": "Limited national recognition; known mainly by regional or college-football fans. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Assumption": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Augustana (SD)": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Baker": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Belhaven College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Brown": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Carson Newman": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Centre College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Columbia": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Delta State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Fort Valley State College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Greenville": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Hillsdale": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Hofstra": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Howard": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Idaho State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Indiana State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Kentucky Wesleyan": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Mary Hardin-Baylor": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Michigan Tech": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Minnesota State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Missouri-Rolla": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Nicholls State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Northern Colorado": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Omaha": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Rensselear Polytechnic Institute": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Shippensburg": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southern Arkansas": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Southern Oregon": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "St. Paul's College": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Stony Brook": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Tiffin": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "UC Irvine": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Virginia Commonwealth Univ.": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Western Oregon": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Western State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Western Washington": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "William Penn": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Winston Salem State": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  },
+  "Wisconsin-Milwaukee": {
+    "rating": 1,
+    "evidence": "Very obscure program with minimal national football visibility; an average NFL viewer would not place its players. Model judgment; no independent source attached.",
+    "confidence": "confident"
+  }
+}

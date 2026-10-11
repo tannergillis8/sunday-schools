@@ -1,0 +1,106 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Myles Garrett,DE,5,7,9,104,135,Texas A&M
+2,Mitchell Trubisky,QB,0,1,4,40,82,North Carolina
+3,Solomon Thomas,DE,0,0,2,21,135,Stanford
+4,Leonard Fournette,RB,0,0,5,38,81,LSU
+5,Corey Davis,WR,0,0,5,31,78,Western Michigan
+6,Jamal Adams,S,1,3,6,47,102,LSU
+7,Mike Williams,WR,0,0,4,38,106,Clemson
+8,Christian McCaffrey,RB,3,4,6,86,116,Stanford
+9,John Ross,WR,0,0,1,7,38,Washington
+10,Patrick Mahomes,QB,2,6,8,115,130,Texas Tech
+11,Marshon Lattimore,CB,0,4,7,43,108,Ohio St.
+12,Deshaun Watson,QB,0,3,4,58,77,Clemson
+13,Haason Reddick,LB,0,2,6,47,137,Temple
+14,Derek Barnett,DE,0,0,3,27,116,Tennessee
+15,Malik Hooker,S,0,0,6,26,115,Ohio St.
+16,Marlon Humphrey,CB,2,4,8,62,135,Alabama
+17,Jonathan Allen,DE,0,2,8,57,130,Alabama
+18,Adoree' Jackson,CB,0,0,7,30,111,USC
+19,O.J. Howard,TE,0,0,4,13,72,Alabama
+20,Garett Bolles,T,1,1,8,56,137,Utah
+21,Jarrad Davis,LB,0,0,3,22,68,Florida
+22,Charles Harris,OLB,0,0,2,16,103,Missouri
+23,Evan Engram,TE,0,2,8,37,128,Mississippi
+24,Gareon Conley,CB,0,0,1,9,31,Ohio St.
+25,Jabrill Peppers,S,0,0,5,32,113,Michigan
+26,Takkarist McKinley,DE,0,0,2,16,71,UCLA
+27,Tre'Davious White,CB,1,2,6,53,109,LSU
+28,Taco Charlton,DE,0,0,0,9,60,Michigan
+29,David Njoku,TE,0,1,6,27,120,Miami (FL)
+30,T.J. Watt,OLB,4,8,9,96,139,Wisconsin
+31,Reuben Foster,LB,0,0,2,8,16,Alabama
+32,Ryan Ramczyk,T,1,0,6,64,101,Wisconsin
+33,Kevin King,CB,0,0,3,16,66,Washington
+34,Cam Robinson,T,0,0,7,43,117,Alabama
+35,Malik McDowell,DT,0,0,1,6,15,Michigan St.
+36,Budda Baker,S,2,8,8,63,142,Washington
+37,Zay Jones,WR,0,0,3,25,123,East Carolina
+38,Forrest Lamp,G,0,0,1,8,26,Western Kentucky
+39,Marcus Maye,S,0,0,5,29,93,Florida
+40,Curtis Samuel,WR,0,0,5,30,111,Ohio St.
+41,Dalvin Cook,RB,0,4,5,52,90,Florida St.
+42,Marcus Williams,S,0,0,8,32,111,Utah
+43,Sidney Jones,CB,0,0,2,12,60,Washington
+44,Gerald Everett,TE,0,0,3,22,124,South Alabama
+45,Adam Shaheen,TE,0,0,1,4,55,Ashland
+46,Quincy Wilson,CB,0,0,0,4,33,Florida
+47,Tyus Bowser,OLB,0,0,1,21,98,Houston
+48,Joe Mixon,RB,0,2,6,56,111,Oklahoma
+49,Ryan Anderson,OLB,0,0,0,6,57,Alabama
+50,Justin Evans,S,0,0,2,10,43,Texas A&M
+51,DeMarcus Walker,DE,0,0,2,24,101,Florida St.
+52,DeShone Kizer,QB,0,0,1,6,18,Notre Dame
+53,Teez Tabor,CB,0,0,0,5,39,Florida
+54,Raekwon McMillan,LB,0,0,2,15,72,Ohio St.
+55,Dalvin Tomlinson,DT,0,0,9,50,144,Alabama
+56,Obi Melifonwu,S,0,0,0,1,7,Connecticut
+57,Zach Cunningham,LB,0,0,5,36,106,Vanderbilt
+58,Ethan Pocic,C,0,0,5,32,115,LSU
+59,Tanoh Kpassagnon,DE,0,0,2,21,108,Villanova
+60,Chidobe Awuzie,CB,0,0,5,28,112,Colorado
+61,Josh Jones,S,0,0,1,11,70,North Carolina St.
+62,JuJu Smith-Schuster,WR,0,1,5,43,121,USC
+63,Dion Dawkins,G,0,5,9,73,147,Temple
+64,Taylor Moton,G,0,0,8,47,145,Western Michigan
+65,Larry Ogunjobi,DT,0,0,7,44,134,Charlotte
+66,Ahkello Witherspoon,CB,0,0,3,22,96,Colorado
+67,Alvin Kamara,RB,0,5,7,79,129,Tennessee
+68,Dawuane Smoot,DE,0,0,0,17,127,Illinois
+69,Cooper Kupp,WR,1,1,7,63,124,Eastern Washington
+70,Pat Elflein,C,0,0,3,26,65,Ohio St.
+71,Dan Feeney,G,0,0,5,35,133,Indiana
+72,Taywan Taylor,WR,0,0,0,6,35,Western Kentucky
+73,Jordan Willis,OLB,0,0,0,8,69,Kansas St.
+74,Chris Wormley,DE,0,0,3,17,92,Michigan
+75,Duke Riley,LB,0,0,2,19,124,LSU
+76,Alex Anzalone,LB,0,0,5,34,116,Florida
+77,Daeshon Hall,DE,0,0,0,1,13,Texas A&M
+78,Tim Williams,OLB,0,0,0,2,20,Alabama
+79,ArDarius Stewart,WR,0,0,0,1,15,Alabama
+80,Tarell Basham,DE,0,0,1,13,82,Ohio
+81,Fabian Moreau,CB,0,0,4,21,128,UCLA
+82,Carlos Henderson,WR,0,0,0,,,Louisiana Tech
+83,Derek Rivers,DE,0,0,0,4,24,Youngstown St.
+84,Chris Godwin,WR,0,1,6,53,125,Penn St.
+85,Antonio Garcia,T,0,0,0,,,Troy
+86,Kareem Hunt,RB,0,1,3,52,121,Toledo
+87,Davis Webb,QB,0,0,0,1,2,California
+88,Eddie Vanderdoes,DT,0,0,1,5,19,UCLA
+89,D'Onta Foreman,RB,0,0,1,17,63,Texas
+90,Shaquill Griffin,DB,0,1,5,30,108,Central Florida
+91,John Johnson,S,0,0,5,29,105,Boston Col.
+92,Jourdan Lewis,CB,0,0,3,26,131,Michigan
+93,Montravius Adams,DT,0,0,1,15,96,Auburn
+94,Cameron Sutton,CB,0,0,3,21,110,Tennessee
+95,Lano Hill,S,0,0,0,5,42,Michigan
+96,Kenny Golladay,WR,0,1,4,27,73,Northern Illinois
+97,Cordrea Tankersley,CB,0,0,1,4,19,Clemson
+98,Chad Williams,WR,0,0,1,1,17,Grambling St.
+99,Rasul Douglas,CB,0,0,4,31,139,West Virginia
+100,Jonnu Smith,TE,0,1,5,29,145,Florida International
+101,Brendan Langley,CB,0,0,0,1,16,Lamar
+102,Nazair Jones,DT,0,0,0,3,20,North Carolina
+103,Trey Hendrickson,OLB,1,4,5,58,120,Florida Atlantic
+104,C.J. Beathard,QB,0,0,0,9,32,Iowa
+105,James Conner,RB,0,2,6,49,110,Pittsburgh

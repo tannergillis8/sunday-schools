@@ -1,0 +1,103 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Baker Mayfield,QB,0,2,7,80,126,Oklahoma
+2,Saquon Barkley,RB,1,3,7,65,110,Penn St.
+3,Sam Darnold,QB,0,2,6,49,103,USC
+4,Denzel Ward,CB,0,5,8,49,114,Ohio St.
+5,Bradley Chubb,DE,0,2,4,41,94,North Carolina St.
+6,Quenton Nelson,G,3,8,8,79,133,Notre Dame
+7,Josh Allen,QB,0,4,8,111,132,Wyoming
+8,Roquan Smith,ILB,3,4,8,84,129,Georgia
+9,Mike McGlinchey,T,0,0,7,46,119,Notre Dame
+10,Josh Rosen,QB,0,0,1,3,24,UCLA
+11,Minkah Fitzpatrick,S,3,5,7,61,122,Alabama
+12,Vita Vea,DT,0,2,6,51,116,Washington
+13,Daron Payne,DT,0,1,8,53,134,Alabama
+14,Marcus Davenport,DE,0,0,2,22,78,Texas-San Antonio
+15,Kolton Miller,T,0,0,7,42,117,UCLA
+16,Tremaine Edmunds,ILB,0,2,8,62,123,Virginia Tech
+17,Derwin James,S,1,5,6,46,101,Florida St.
+18,Jaire Alexander,CB,0,2,5,34,80,Louisville
+19,Leighton Vander Esch,OLB,0,1,5,35,71,Boise St.
+20,Frank Ragnow,C,0,4,6,51,96,Arkansas
+21,Billy Price,C,0,0,3,18,69,Ohio St.
+22,Rashaan Evans,ILB,0,0,4,32,87,Alabama
+23,Isaiah Wynn,T,0,0,3,23,56,Georgia
+24,D.J. Moore,WR,0,0,8,61,135,Maryland
+25,Hayden Hurst,TE,0,0,1,17,88,South Carolina
+26,Calvin Ridley,WR,0,0,4,41,94,Alabama
+27,Rashaad Penny,RB,0,0,0,13,45,San Diego St.
+28,Terrell Edmunds,S,0,0,5,27,102,Virginia Tech
+29,Taven Bryan,DT,0,0,4,22,118,Florida
+30,Mike Hughes,CB,0,0,2,17,103,Central Florida
+31,Sony Michel,RB,0,0,2,21,65,Georgia
+32,Lamar Jackson,QB,3,4,7,110,120,Louisville
+33,Austin Corbett,C,0,0,4,29,98,Nevada
+34,Will Hernandez,G,0,0,5,38,104,Texas-El Paso
+35,Nick Chubb,RB,0,4,6,49,100,Georgia
+36,Shaquille Leonard,LB,3,3,5,60,75,South Carolina St.
+37,Braden Smith,G,0,0,8,45,107,Auburn
+38,Ronald Jones II,RB,0,0,2,18,61,USC
+39,James Daniels,C,0,0,6,29,91,Iowa
+40,Courtland Sutton,WR,0,2,6,45,119,SMU
+41,Harold Landry,OLB,0,1,6,45,113,Boston Col.
+42,Mike Gesicki,TE,0,0,2,28,132,Penn St.
+43,Kerryon Johnson,RB,0,0,1,11,35,Auburn
+44,Dante Pettis,WR,0,0,0,11,66,Washington
+45,Josh Jackson,CB,0,0,0,8,49,Iowa
+46,Breeland Speaks,DE,0,0,0,3,16,Mississippi
+47,Christian Kirk,WR,0,0,7,42,106,Texas A&M
+48,Uchenna Nwosu,OLB,0,0,3,29,111,USC
+49,Dallas Goedert,TE,0,0,8,38,110,South Dakota St.
+50,Connor Williams,T,0,0,6,34,92,Texas
+51,Anthony Miller,WR,0,0,2,12,52,Memphis
+52,Kemoko Turay,OLB,0,0,0,5,41,Rutgers
+53,M.J. Stewart,CB,0,0,0,9,99,North Carolina
+54,Jessie Bates III,S,0,1,8,55,134,Wake Forest
+55,Donte Jackson,CB,0,0,8,34,116,LSU
+56,Duke Dawson,CB,0,0,0,3,26,Florida
+57,P.J. Hall,DT,0,0,2,11,40,Sam Houston St.
+58,Isaiah Oliver,CB,0,0,2,18,110,Colorado
+59,Derrius Guice,RB,0,0,0,2,5,LSU
+60,James Washington,WR,0,0,2,11,62,Oklahoma St.
+61,DJ Chark,WR,0,1,4,21,76,LSU
+62,Brian O'Neill,T,0,2,8,56,128,Pittsburgh
+63,Carlton Davis,CB,0,0,7,34,109,Auburn
+64,Tyquan Lewis,DE,0,0,0,13,88,Ohio St.
+65,Brandon Parker,T,0,0,2,15,59,North Carolina A&T
+66,Lorenzo Carter,DE,0,0,4,30,96,Georgia
+67,Chad Thomas,DE,0,0,0,5,20,Miami (FL)
+68,Justin Reid,S,0,0,8,34,125,Stanford
+69,B.J. Hill,DT,0,0,6,37,130,North Carolina St.
+70,Fred Warner,OLB,4,4,7,82,125,BYU
+71,Royce Freeman,RB,0,0,0,13,79,Oregon
+72,Nathan Shepherd,DT,0,0,2,25,126,Fort Hays St.
+73,Jerome Baker,OLB,0,0,6,39,121,Ohio St.
+74,Geron Christian,T,0,0,1,12,63,Louisville
+75,Derrick Nnadi,DT,0,0,6,38,130,Florida St.
+76,Mason Rudolph,QB,0,0,1,10,35,Oklahoma St.
+77,Sam Hubbard,DE,0,0,6,40,104,Ohio St.
+78,Malik Jefferson,OLB,0,0,0,3,38,Texas
+79,Rasheem Green,DT,0,0,2,17,86,USC
+80,Martinas Rankin,T,0,0,0,7,23,Mississippi St.
+81,Michael Gallup,WR,0,0,5,30,86,Colorado St.
+82,Tracy Walker,S,0,0,2,13,79,Louisiana
+83,Orlando Brown Jr.,T,0,4,8,69,130,Oklahoma
+84,Justin Jones,DT,0,0,5,30,88,North Carolina St.
+85,Rashaan Gaulden,CB,0,0,0,1,27,Tennessee
+86,Mark Andrews,TE,1,3,4,51,125,Oklahoma
+87,Arden Key,DE,0,0,4,24,120,LSU
+88,Oren Burks,ILB,0,0,1,16,129,Vanderbilt
+89,Joseph Noteboom,T,0,0,0,18,81,TCU
+90,Deadrin Senat,DT,0,0,0,4,37,South Florida
+91,Tre'Quan Smith,WR,0,0,3,15,67,Central Florida
+92,Chukwuma Okorafor,T,0,0,3,26,96,Western Michigan
+93,Ronnie Harrison,S,0,0,3,21,95,Alabama
+94,Alex Cappa,T,0,0,6,44,119,Humboldt St.
+95,Tarvarius Moore,S,0,0,1,8,72,Southern Miss
+96,Harrison Phillips,DT,0,0,4,35,117,Stanford
+97,Mason Cole,C,0,0,4,25,94,Michigan
+98,Jordan Akins,TE,0,0,1,16,107,Central Florida
+99,Isaac Yiadom,CB,0,0,2,16,120,Boston Col.
+100,Dorian O'Daniel,OLB,0,0,0,5,58,Clemson
+101,Ian Thomas,TE,0,0,3,8,118,Indiana
+102,Jalyn Holmes,DE,0,0,0,8,65,Ohio St.

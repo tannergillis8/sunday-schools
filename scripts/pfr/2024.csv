@@ -1,0 +1,103 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Caleb Williams,QB,0,0,2,26,36,USC
+2,Jayden Daniels,QB,0,1,1,26,26,LSU
+3,Drake Maye,QB,0,2,2,26,34,North Carolina
+4,Marvin Harrison Jr.,WR,0,0,2,13,33,Ohio St.
+5,Joe Alt,OL,0,1,1,12,26,Notre Dame
+6,Malik Nabers,WR,0,1,1,12,23,LSU
+7,JC Latham,OL,0,0,2,11,34,Alabama
+8,Michael Penix,QB,0,0,1,8,16,Washington
+9,Rome Odunze,WR,0,0,2,12,33,Washington
+10,J.J. McCarthy,QB,0,0,1,4,10,Michigan
+11,Olu Fashanu,OL,0,0,1,10,36,Penn St.
+12,Bo Nix,QB,0,0,2,25,38,Oregon
+13,Brock Bowers,TE,1,2,1,14,31,Georgia
+14,Taliese Fuaga,OL,0,0,2,13,34,Oregon St.
+15,Laiatu Latu,DL,0,0,1,10,37,UCLA
+16,Byron Murphy,DL,0,0,1,14,35,Texas
+17,Dallas Turner,LB,0,0,1,9,37,Alabama
+18,Amarius Mims,OL,0,0,2,16,36,Georgia
+19,Jared Verse,DL,0,2,2,22,38,Florida St.
+20,Troy Fautanu,OL,0,0,1,9,22,Washington
+21,Chop Robinson,DE,0,0,0,4,35,Penn St.
+22,Quinyon Mitchell,CB,1,1,2,19,36,Toledo
+23,Brian Thomas,WR,0,1,2,18,35,LSU
+24,Terrion Arnold,DB,0,0,1,8,24,Alabama
+25,Jordan Morgan,OL,0,0,1,9,27,Arizona
+26,Graham Barton,OL,0,0,2,15,37,Duke
+27,Darius Robinson,DL,0,0,1,4,25,Missouri
+28,Xavier Worthy,WR,0,0,2,13,35,Texas
+29,Tyler Guyton,OL,0,0,2,9,29,Oklahoma
+30,Nate Wiggins,CB,0,0,1,7,36,Clemson
+31,Ricky Pearsall,WR,0,0,1,8,20,Florida
+32,Xavier Legette,WR,0,0,2,8,33,South Carolina
+33,Keon Coleman,WR,0,0,1,11,30,Florida St.
+34,Ladd McConkey,WR,0,0,2,18,36,Georgia
+35,Ruke Orhorhoro,DT,0,0,0,6,29,Clemson
+36,Jer'Zhan Newton,DL,0,0,0,7,33,Illinois
+37,Ja'Lynn Polk,WR,0,0,1,1,15,Washington
+38,T'Vondre Sweat,DL,0,0,2,11,33,Texas
+39,Braden Fiske,DL,0,0,1,14,38,Florida St.
+40,Cooper DeJean,DB,1,1,1,16,36,Iowa
+41,Kool-Aid McKinstry,DB,0,0,1,10,36,Alabama
+42,Kamari Lassiter,DB,0,1,2,14,34,Georgia
+43,Max Melton,DB,0,0,0,4,31,Rutgers
+44,Jackson Powers-Johnson,OL,0,0,1,6,26,Oregon
+45,Edgerrin Cooper,LB,0,0,1,10,34,Texas A&M
+46,Jonathon Brooks,RB,0,0,0,0,5,Texas
+47,Tyler Nubin,DB,0,0,2,9,29,Minnesota
+48,Maason Smith,DT,0,0,0,4,28,LSU
+49,Kris Jenkins,DL,0,0,0,6,33,Michigan
+50,Mike Sainristil,DB,0,0,2,10,38,Michigan
+51,Zach Frazier,OL,0,0,2,13,36,West Virginia
+52,Adonai Mitchell,WR,0,0,1,8,35,Texas
+53,Ben Sinnott,TE,0,0,0,1,37,Kansas St.
+54,Michael Hall,DT,0,0,0,3,21,Ohio St.
+55,Patrick Paul,OL,0,0,1,10,38,Houston
+56,Marshawn Kneeland,DL,0,0,0,2,18,Western Michigan
+57,Chris Braswell,LB,0,0,0,2,34,Alabama
+58,Javon Bullard,DB,0,0,1,7,36,Georgia
+59,Blake Fisher,OL,0,0,1,8,35,Notre Dame
+60,Cole Bishop,SAF,0,0,1,9,37,Utah
+61,Ennis Rakestraw,DB,0,0,0,0,10,Missouri
+62,Roger Rosengarten,OL,0,0,2,17,38,Washington
+63,Kingsley Suamataia,OL,0,0,1,10,35,BYU
+64,Renardo Green,DB,0,0,1,8,35,Florida St.
+65,Malachi Corley,WR,0,0,0,1,26,Western Kentucky
+66,Trey Benson,RB,0,0,0,3,17,Florida St.
+67,Brandon Coleman,OL,0,0,1,11,32,TCU
+68,Caedan Wallace,OL,0,0,0,1,14,Penn St.
+69,Junior Colson,LB,0,0,0,1,11,Michigan
+70,Andru Phillips,DB,0,0,0,6,35,Kentucky
+71,Isaiah Adams,OL,0,0,1,8,35,Illinois
+72,Trevin Wallace,LB,0,0,2,8,27,Kentucky
+73,Cooper Beebe,OL,0,0,2,10,31,Kansas St.
+74,Bralen Trice,DE,0,0,0,0,2,Washington
+75,Kiran Amegadjie,OL,0,0,0,1,6,Yale
+76,Jonah Elliss,DE,0,0,0,3,34,Utah
+77,Delmar Glaze,OL,0,0,2,11,38,Maryland
+78,Calen Bullock,SAF,0,1,2,14,38,USC
+79,Matt Goncalves,OL,0,0,1,12,37,Pittsburgh
+80,Jermaine Burton,WR,0,0,0,1,14,Alabama
+81,Christian Haynes,OL,0,0,0,2,28,Connecticut
+82,Tip Reiman,TE,0,0,1,0,21,Illinois
+83,Blake Corum,RB,0,0,0,8,38,Michigan
+84,Roman Wilson,WR,0,0,0,2,18,Michigan
+85,Zak Zinter,OL,0,0,0,1,26,Michigan
+86,Dominick Puni,OL,0,0,2,15,38,Kansas
+87,Marist Liufau,LB,0,0,0,6,34,Notre Dame
+88,MarShawn Lloyd,RB,0,0,0,0,5,USC
+89,Tykee Smith,DB,0,0,1,9,33,Georgia
+90,Elijah Jones,DB,0,0,0,0,10,Boston Col.
+91,Ty'Ron Hopper,LB,0,0,0,3,37,Missouri
+92,Jalen McMillan,WR,0,0,0,7,19,Washington
+93,Adisa Isaac,DE,0,0,0,0,4,Penn St.
+94,Jalyx Hunt,DE,0,0,1,9,37,Houston Christian
+95,DeWayne Carter,DT,0,0,0,2,15,Duke
+96,Jarrian Jones,DB,0,0,0,5,38,Florida St.
+97,McKinnley Jackson,DL,0,0,0,2,22,Texas A&M
+98,Payton Wilson,LB,0,0,0,7,38,North Carolina St.
+99,Kamren Kinchens,SAF,0,0,0,8,36,Miami (FL)
+100,Luke McCaffrey,WR,0,0,0,4,27,Rice
+101,Ja'Tavion Sanders,TE,0,0,0,5,29,Texas
+102,Troy Franklin,WR,0,0,0,8,37,Oregon

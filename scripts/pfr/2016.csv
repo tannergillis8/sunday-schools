@@ -1,0 +1,105 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Jared Goff,QB,0,5,9,106,155,California
+2,Carson Wentz,QB,0,1,6,63,105,North Dakota St.
+3,Joey Bosa,DE,0,5,7,62,122,Ohio St.
+4,Ezekiel Elliott,RB,1,3,7,68,135,Ohio St.
+5,Jalen Ramsey,CB,3,8,10,84,156,Florida St.
+6,Ronnie Stanley,T,1,2,8,64,123,Notre Dame
+7,DeForest Buckner,DE,1,3,9,76,155,Oregon
+8,Jack Conklin,T,2,0,6,55,114,Michigan St.
+9,Leonard Floyd,OLB,0,0,10,63,153,Georgia
+10,Eli Apple,CB,0,0,5,28,104,Ohio St.
+11,Vernon Hargreaves III,CB,0,0,4,18,69,Florida
+12,Sheldon Rankins,DT,0,0,6,41,137,Louisville
+13,Laremy Tunsil,T,0,5,9,60,139,Mississippi
+14,Karl Joseph,S,0,0,4,16,65,West Virginia
+15,Corey Coleman,WR,0,0,2,6,27,Baylor
+16,Taylor Decker,T,0,1,9,59,140,Ohio St.
+17,Keanu Neal,S,0,1,3,25,89,Florida
+18,Ryan Kelly,C,0,4,9,56,129,Alabama
+19,Shaq Lawson,DE,0,0,1,24,110,Clemson
+20,Darron Lee,OLB,0,0,3,19,58,Ohio St.
+21,Will Fuller,WR,0,0,5,24,55,Notre Dame
+22,Josh Doctson,WR,0,0,2,9,34,TCU
+23,Laquon Treadwell,WR,0,0,2,8,97,Mississippi
+24,William Jackson III,CB,0,0,4,19,75,Houston
+25,Artie Burns,CB,0,0,1,17,90,Miami (FL)
+26,Paxton Lynch,QB,0,0,0,2,5,Memphis
+27,Kenny Clark,DT,0,3,9,63,161,UCLA
+28,Joshua Garnett,G,0,0,1,5,25,Stanford
+29,Robert Nkemdiche,DT,0,0,0,6,38,Mississippi
+30,Vernon Butler,DT,0,0,2,13,77,Louisiana Tech
+31,Germain Ifedi,G,0,0,4,38,117,Texas A&M
+32,Emmanuel Ogbah,DE,0,0,6,43,136,Oklahoma St.
+33,Kevin Dodd,DE,0,0,0,2,18,Clemson
+34,Jaylon Smith,OLB,0,1,4,37,88,Notre Dame
+35,Hunter Henry,TE,0,0,8,37,140,Arkansas
+36,Myles Jack,OLB,0,0,7,42,106,UCLA
+37,Chris Jones,DT,3,7,10,96,159,Mississippi St.
+38,Xavien Howard,CB,1,4,7,58,104,Baylor
+39,Noah Spence,DE,0,0,0,5,43,Eastern Kentucky
+40,Sterling Shepard,WR,0,0,5,32,119,Oklahoma
+41,Reggie Ragland,ILB,0,0,3,22,79,Alabama
+42,Kamalei Correa,DE,0,0,1,11,63,Boise St.
+43,Austin Johnson,NT,0,0,3,29,145,Penn St.
+44,Jihad Ward,DE,0,0,4,25,136,Illinois
+45,Derrick Henry,RB,1,5,7,85,157,Alabama
+46,A'Shawn Robinson,DT,0,0,7,40,147,Alabama
+47,Michael Thomas,WR,2,3,4,60,83,Ohio St.
+48,Jason Spriggs,T,0,0,0,9,59,Indiana
+49,Jarran Reed,DT,0,0,8,48,156,Alabama
+50,Nick Martin,G,0,0,4,29,83,Notre Dame
+51,Christian Hackenberg,QB,0,0,0,,,Penn St.
+52,Deion Jones,OLB,0,1,5,43,128,LSU
+53,Su'a Cravens,OLB,0,0,0,5,16,USC
+54,Mackensie Alexander,CB,0,0,1,12,85,Clemson
+55,Tyler Boyd,WR,0,0,5,48,136,Pittsburgh
+56,Cody Whitehair,G,0,1,8,43,136,Kansas St.
+57,T.J. Green,S,0,0,0,6,41,Clemson
+58,Sean Davis,CB,0,0,3,18,70,Maryland
+59,Roberto Aguayo,K,0,0,0,0,16,Florida St.
+60,Cyrus Jones,CB,0,0,0,4,31,Alabama
+61,Vonn Bell,S,0,0,7,37,139,Ohio St.
+62,James Bradberry,CB,0,1,8,46,125,Samford
+63,Adam Gotsis,DT,0,0,3,28,128,Georgia Tech
+64,Kevin Byard,S,3,3,9,66,168,Middle Tenn. St.
+65,Carl Nassib,DE,0,0,1,20,99,Penn St.
+66,Max Tuerk,C,0,0,0,0,1,USC
+67,Maliek Collins,DT,0,0,10,51,152,Nebraska
+68,Will Redmond,CB,0,0,0,3,37,Mississippi St.
+69,Yannick Ngakoue,DE,0,1,8,50,134,Maryland
+70,Bronson Kaufusi,DE,0,0,0,2,9,BYU
+71,Darian Thompson,S,0,0,1,12,63,Boise St.
+72,Jonathan Bullard,DT,0,0,3,28,134,Florida
+73,Kenyan Drake,RB,0,0,2,33,104,Alabama
+74,KeiVarae Russell,CB,0,0,0,2,23,Notre Dame
+75,Shilique Calhoun,DE,0,0,0,5,51,Michigan St.
+76,Shon Coleman,T,0,0,1,6,23,Auburn
+77,Daryl Worley,CB,0,0,4,22,99,West Virginia
+78,Joe Thuney,G,3,4,10,84,167,North Carolina St.
+79,Isaac Seumalo,G,0,1,7,39,129,Oregon St.
+80,Adolphus Washington,DT,0,0,2,9,35,Ohio St.
+81,Austin Hooper,TE,0,2,5,33,159,Stanford
+82,Le'Raven Clark,T,0,0,0,12,64,Texas Tech
+83,Jordan Jenkins,OLB,0,0,5,29,83,Georgia
+84,Kendall Fuller,CB,0,0,6,34,128,Virginia Tech
+85,Braxton Miller,WR,0,0,1,2,21,Ohio St.
+86,Leonte Carroo,WR,0,0,0,2,37,Rutgers
+87,Nick Vigil,ILB,0,0,4,27,113,Utah St.
+88,Kyler Fackrell,OLB,0,0,1,16,86,Utah St.
+89,Javon Hargrave,DT,0,2,9,59,149,South Carolina St.
+90,C.J. Prosise,RB,0,0,0,5,35,Notre Dame
+91,Jacoby Brissett,QB,0,0,4,42,105,North Carolina St.
+92,Brandon Williams,CB,0,0,0,4,51,Texas A&M
+93,Cody Kessler,QB,0,0,1,5,17,USC
+94,Nick Vannett,TE,0,0,3,7,121,Ohio St.
+95,Graham Glasgow,C,0,0,8,48,147,Michigan
+96,Vincent Valentine,DT,0,0,0,2,16,Nebraska
+97,Rees Odhiambo,G,0,0,0,4,16,Boise St.
+98,Justin Simmons,S,0,2,8,60,134,Boston Col.
+99,Joe Schobert,OLB,0,1,5,37,99,Wisconsin
+100,Connor Cook,QB,0,0,0,0,1,Michigan St.
+101,Charles Tapper,DE,0,0,0,0,2,Oklahoma
+102,Joshua Perry,ILB,0,0,0,1,17,Ohio St.
+103,Sheldon Day,DT,0,0,0,9,95,Notre Dame
+104,Tavon Young,CB,0,0,1,14,50,Temple

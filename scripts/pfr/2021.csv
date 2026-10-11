@@ -1,0 +1,102 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Trevor Lawrence,QB,0,1,5,52,81,Clemson
+2,Zach Wilson,QB,0,0,3,13,38,BYU
+3,Trey Lance,QB,0,0,0,6,16,North Dakota St.
+4,Kyle Pitts,TE,0,1,5,28,82,Florida
+5,Ja'Marr Chase,WR,2,5,5,58,82,LSU
+6,Jaylen Waddle,WR,0,0,5,41,82,Alabama
+7,Penei Sewell,OL,3,4,5,64,87,Oregon
+8,Jaycee Horn,DB,0,2,3,22,56,South Carolina
+9,Patrick Surtain II,DB,2,4,5,51,84,Alabama
+10,DeVonta Smith,WR,0,0,5,47,83,Alabama
+11,Justin Fields,QB,0,0,4,44,60,Ohio St.
+12,Micah Parsons,LB,3,5,4,67,77,Penn St.
+13,Rashawn Slater,OL,0,2,3,32,55,Northwestern
+14,Alijah Vera-Tucker,OL,0,0,2,14,47,USC
+15,Mac Jones,QB,0,1,3,34,64,Alabama
+16,Zaven Collins,LB,0,0,4,24,88,Tulsa
+17,Alex Leatherwood,OL,0,0,1,8,21,Alabama
+18,Jaelan Phillips,DL,0,0,2,23,67,Miami (FL)
+19,Jamin Davis,LB,0,0,2,16,56,Kentucky
+20,Kadarius Toney,WR,0,0,0,7,35,Florida
+21,Kwity Paye,DL,0,0,5,32,79,Michigan
+22,Caleb Farley,DB,0,0,0,2,21,Virginia Tech
+23,Christian Darrisaw,OL,0,0,4,26,62,Virginia Tech
+24,Najee Harris,RB,0,1,4,30,74,Alabama
+25,Travis Etienne,RB,0,0,4,33,69,Clemson
+26,Greg Newsome II,DB,0,0,4,19,75,Northwestern
+27,Rashod Bateman,WR,0,0,3,20,68,Minnesota
+28,Payton Turner,DE,0,0,0,3,31,Houston
+29,Eric Stokes,DB,0,0,4,14,65,Georgia
+30,Gregory Rousseau,DL,0,0,5,38,82,Miami (FL)
+31,Odafe Oweh,DE,0,0,1,16,83,Penn St.
+32,Joe Tryon-Shoyinka,OLB,0,0,3,23,82,Washington
+33,Tyson Campbell,DB,0,0,5,25,75,Georgia
+34,Elijah Moore,WR,0,0,3,15,72,Mississippi
+35,Javonte Williams,RB,0,0,3,28,75,North Carolina
+36,Jevon Holland,S,0,0,5,25,78,Oregon
+37,Landon Dickerson,OL,0,3,5,36,79,Alabama
+38,Christian Barmore,DL,0,0,1,17,68,Alabama
+39,Teven Jenkins,OL,0,0,3,17,62,Oklahoma St.
+40,Richie Grant,DB,0,0,2,13,68,Central Florida
+41,Levi Onwuzurike,DL,0,0,1,7,45,Washington
+42,Liam Eichenberg,OL,0,0,4,23,60,Notre Dame
+43,Tre'von Moehrig,S,0,0,5,25,86,TCU
+44,Kelvin Joseph,DB,0,0,0,2,33,Kentucky
+45,Walker Little,T,0,0,2,18,74,Stanford
+46,Jackson Carman,T,0,0,0,5,30,Clemson
+47,Asante Samuel Jr.,DB,0,0,3,15,60,Florida St.
+48,Aaron Banks,OL,0,0,4,26,69,Notre Dame
+49,Rondale Moore,WR,0,0,0,12,39,Purdue
+50,Azeez Ojulari,OLB,0,0,1,17,49,Georgia
+51,Samuel Cosmi,OL,0,0,3,26,68,Texas
+52,Jeremiah Owusu-Koramoah,LB,0,1,3,22,49,Notre Dame
+53,Dillon Radunz,T,0,0,3,14,69,North Dakota St.
+54,Dayo Odeyingbo,DL,0,0,1,15,73,Vanderbilt
+55,Pat Freiermuth,TE,0,0,2,22,82,Penn St.
+56,D'Wayne Eskridge,WR,0,0,0,3,43,Western Michigan
+57,Tutu Atwell,WR,0,0,1,14,66,Louisville
+58,Nick Bolton,LB,0,0,4,30,78,Missouri
+59,Terrace Marshall Jr.,WR,0,0,1,6,43,LSU
+60,Pete Werner,LB,0,0,4,30,77,Ohio St.
+61,Boogie Basham,DL,0,0,0,4,43,Wake Forest
+62,Josh Myers,C,0,0,4,32,77,Ohio St.
+63,Creed Humphrey,OL,2,4,5,51,89,Oklahoma
+64,Kyle Trask,QB,0,0,0,0,7,Florida
+65,Andre Cisco,DB,0,0,3,20,75,Syracuse
+66,Kellen Mond,QB,0,0,0,0,1,Texas A&M
+67,Davis Mills,QB,0,0,2,17,44,Stanford
+68,Jalen Mayfield,OL,0,0,1,7,19,Michigan
+69,Joseph Ossai,LB,0,0,1,10,63,Texas
+70,Brady Christensen,OL,0,0,1,14,59,BYU
+71,Aaron Robinson,DB,0,0,0,2,11,Central Florida
+72,Alim McNeill,DT,0,0,4,23,75,North Carolina St.
+73,Milton Williams,DL,0,0,2,17,83,Louisiana Tech
+74,Benjamin St-Juste,DB,0,0,3,14,73,Minnesota
+75,Osa Odighizuwa,DL,0,0,5,31,88,UCLA
+76,Paulson Adebo,CB,0,0,5,22,65,Stanford
+77,Josh Palmer,WR,0,0,1,21,74,Tennessee
+78,Chazz Surratt,LB,0,0,0,6,55,North Carolina
+79,Malcolm Koonce,DE,0,0,1,9,60,Buffalo
+80,Divine Deablo,DB,0,0,3,25,71,Virginia Tech
+81,Hunter Long,TE,0,0,0,2,50,Boston Col.
+82,Dyami Brown,WR,0,0,0,7,81,North Carolina
+83,Tommy Tremble,TE,0,0,2,7,82,Notre Dame
+84,Chauncey Golston,DL,0,0,0,12,78,Iowa
+85,Amari Rodgers,WR,0,0,0,2,35,Clemson
+86,Wyatt Davis,OL,0,0,0,0,9,Ohio St.
+87,Kendrick Green,OL,0,0,1,7,37,Illinois
+88,Trey Sermon,RB,0,0,0,4,46,Ohio St.
+89,Nico Collins,WR,0,2,2,33,68,Michigan
+90,Patrick Jones II,DL,0,0,0,8,63,Pittsburgh
+91,Anthony Schwartz,WR,0,0,0,2,25,Auburn
+92,Monty Rice,LB,0,0,0,7,39,Georgia
+93,Spencer Brown,OL,0,0,4,38,77,Northern Iowa
+94,Ben Cleveland,OL,0,0,0,6,64,Georgia
+95,Robert Hainsey,OL,0,0,3,23,79,Notre Dame
+96,Ronnie Perkins,DE,0,0,0,0,7,Oklahoma
+97,Tre' McKitty,TE,0,0,0,1,34,Georgia
+98,Quinn Meinerz,C,2,1,4,34,83,Wisconsin–Whitewater
+99,Nahshon Wright,DB,0,1,1,11,52,Oregon St.
+100,Elijah Molden,DB,0,0,2,16,62,Washington
+101,Ifeatu Melifonwu,DB,0,0,0,8,58,Syracuse

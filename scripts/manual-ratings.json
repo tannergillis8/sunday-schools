@@ -1,0 +1,67 @@
+[
+  {
+    "id": "justin-jefferson-2020",
+    "playerNotoriety": 4,
+    "collegeAssociation": 3,
+    "collegePathComplexity": 1,
+    "collegesAttended": [
+      "LSU"
+    ],
+    "canonicalCollege": "LSU",
+    "canonicalConfirmed": true,
+    "rationale": "2022 AP Offensive Player of the Year and first-team All-Pro (2022, 2024), but no MVP or title, so 4 not 5. LSU is a known fact but not his defining story.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Justin_Jefferson"
+    ],
+    "confidence": "confident"
+  },
+  {
+    "id": "joe-burrow-2020",
+    "playerNotoriety": 4,
+    "collegeAssociation": 5,
+    "collegePathComplexity": 3,
+    "collegesAttended": [
+      "Ohio State",
+      "LSU"
+    ],
+    "canonicalCollege": "LSU",
+    "canonicalConfirmed": true,
+    "rationale": "No. 1 pick, Comeback Player of the Year (2021, 2024), multiple Pro Bowls. His 2019 Heisman and national title at LSU define his story. Transferred from Ohio State (backup, 2015-2017) to LSU (starter, 2018-2019); LSU is the answer.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joe_Burrow"
+    ],
+    "confidence": "confident"
+  },
+  {
+    "id": "cooper-kupp-2017",
+    "playerNotoriety": 4,
+    "collegeAssociation": 3,
+    "collegePathComplexity": 1,
+    "collegesAttended": [
+      "Eastern Washington"
+    ],
+    "canonicalCollege": "Eastern Washington",
+    "canonicalConfirmed": true,
+    "rationale": "2021 Offensive Player of the Year, Super Bowl LVI MVP, receiving triple crown. Eastern Washington is a known biographical fact (Walter Payton Award, 2015) but rarely central to coverage of him.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cooper_Kupp"
+    ],
+    "confidence": "confident"
+  },
+  {
+    "id": "carson-wentz-2016",
+    "playerNotoriety": 3,
+    "collegeAssociation": 3,
+    "collegePathComplexity": 1,
+    "collegesAttended": [
+      "North Dakota State"
+    ],
+    "canonicalCollege": "North Dakota State",
+    "canonicalConfirmed": true,
+    "rationale": "No. 2 pick, 2017 Bert Bell Award and second-team All-Pro, Super Bowl LII ring as an injured starter, then several teams. Recognizable long-time starter rather than a sustained national star. North Dakota State is a known fact about him.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carson_Wentz"
+    ],
+    "confidence": "confident"
+  }
+]

@@ -1,0 +1,106 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Jameis Winston,QB,0,1,5,63,111,Florida St.
+2,Marcus Mariota,QB,0,0,5,60,107,Oregon
+3,Dante Fowler,OLB,0,0,3,31,163,Florida
+4,Amari Cooper,WR,0,5,9,66,154,Alabama
+5,Brandon Scherff,T,1,5,10,62,140,Iowa
+6,Leonard Williams,DE,0,3,10,78,179,USC
+7,Kevin White,WR,0,0,0,3,30,West Virginia
+8,Vic Beasley,OLB,1,1,5,32,88,Clemson
+9,Ereck Flowers,T,0,0,7,35,105,Miami (FL)
+10,Todd Gurley,RB,2,3,6,54,88,Georgia
+11,Trae Waynes,CB,0,0,3,18,79,Michigan St.
+12,Danny Shelton,NT,0,0,5,33,101,Washington
+13,Andrus Peat,T,0,3,7,53,132,Stanford
+14,DeVante Parker,WR,0,0,6,36,119,Louisville
+15,Melvin Gordon,RB,0,2,7,51,112,Wisconsin
+16,Kevin Johnson,CB,0,0,0,11,64,Wake Forest
+17,Arik Armstead,DT,0,0,7,45,153,Oregon
+18,Marcus Peters,CB,2,3,7,63,116,Washington
+19,Cameron Erving,C,0,0,3,28,98,Florida St.
+20,Nelson Agholor,WR,0,0,7,36,149,USC
+21,Cedric Ogbuehi,T,0,0,2,17,67,Texas A&M
+22,Bud Dupree,OLB,0,0,6,46,156,Kentucky
+23,Shane Ray,DE,0,0,1,12,49,Missouri
+24,D.J. Humphries,T,0,1,7,45,108,Florida
+25,Shaq Thompson,OLB,0,0,8,43,135,Washington
+26,Breshad Perriman,WR,0,0,1,15,80,Central Florida
+27,Byron Jones,CB,0,1,7,38,109,Connecticut
+28,Laken Tomlinson,G,0,1,10,55,174,Duke
+29,Phillip Dorsett,WR,0,0,0,16,94,Miami (FL)
+30,Damarious Randall,S,0,0,5,21,75,Arizona St.
+31,Stephone Anthony,ILB,0,0,1,10,62,Clemson
+32,Malcom Brown,DT,0,0,6,43,106,Texas
+33,Landon Collins,S,1,3,6,42,100,Alabama
+34,Donovan Smith,T,0,0,9,57,136,Penn St.
+35,Mario Edwards,DT,0,0,2,25,144,Florida St.
+36,T.J. Yeldon,RB,0,0,2,20,60,Alabama
+37,Devin Smith,WR,0,0,0,2,22,Ohio St.
+38,Preston Smith,DE,0,0,8,55,176,Mississippi St.
+39,Eddie Goldman,DT,0,0,4,36,111,Florida St.
+40,Dorial Green-Beckham,WR,0,0,0,7,31,Oklahoma
+41,Devin Funchess,WR,0,0,2,20,62,Michigan
+42,Jalen Collins,CB,0,0,0,4,24,LSU
+43,Benardrick McKinney,ILB,0,1,5,44,91,Mississippi St.
+44,Hau'oli Kikaha,OLB,0,0,1,5,27,Washington
+45,Eric Kendricks,ILB,1,1,10,64,150,UCLA
+46,Jaquiski Tartt,S,0,0,4,21,80,Samford
+47,Eric Rowe,CB,0,0,2,21,103,Utah
+48,Denzel Perryman,ILB,0,1,8,45,129,Miami (FL)
+49,Mitch Morse,G,0,1,9,55,143,Missouri
+50,Ronald Darby,CB,0,0,8,34,118,Florida St.
+51,Nate Orchard,DE,0,0,1,8,48,Utah
+52,Jordan Phillips,NT,0,0,5,32,140,Oklahoma
+53,Jake Fisher,T,0,0,0,9,48,Oregon
+54,Ameer Abdullah,RB,0,0,2,22,158,Nebraska
+55,Maxx Williams,TE,0,0,2,8,83,Minnesota
+56,Senquez Golson,CB,0,0,0,,,Mississippi
+57,Rob Havenstein,T,0,0,10,58,148,Wisconsin
+58,Markus Golden,DE,0,0,4,33,127,Missouri
+59,Ty Sambrailo,T,0,0,0,14,71,Colorado St.
+60,Randy Gregory,OLB,0,0,1,15,72,Nebraska
+61,Ali Marpet,C,0,1,7,43,101,Hobart
+62,Quinten Rollins,CB,0,0,0,7,33,Miami (OH)
+63,Frank Clark,DE,0,3,6,49,128,Michigan
+64,Jordan Richards,S,0,0,1,10,86,Stanford
+65,D'Joun Smith,CB,0,0,0,0,5,Florida Atlantic
+66,Jeremiah Poutasi,G,0,0,0,3,12,Utah
+67,A.J. Cann,G,0,0,7,39,111,South Carolina
+68,Clive Walford,TE,0,0,1,7,52,Miami (FL)
+69,Tyler Lockett,WR,1,1,10,68,178,Kansas St.
+70,Jaelen Strong,WR,0,0,0,2,20,Arizona St.
+71,Hroniss Grasu,C,0,0,1,8,33,Oregon
+72,Jamon Brown,T,0,0,3,21,62,Louisville
+73,Tevin Coleman,RB,0,0,2,33,94,Indiana
+74,Owamagbe Odighizuwa,DE,0,0,0,1,18,UCLA
+75,Garrett Grayson,QB,0,0,0,,,Colorado St.
+76,Chris Conley,WR,0,0,3,23,132,Georgia
+77,Duke Johnson,RB,0,0,0,28,97,Miami (FL)
+78,P.J. Williams,CB,0,0,2,19,89,Florida St.
+79,Eli Harold,OLB,0,0,2,11,61,Virginia
+80,Alex Carter,CB,0,0,0,0,2,Stanford
+81,John Miller,G,0,0,5,31,87,Louisville
+82,Lorenzo Mauldin,OLB,0,0,0,4,26,Louisville
+83,Craig Mager,CB,0,0,0,4,24,Texas St.
+84,Jordan Hicks,OLB,0,0,9,53,134,Texas
+85,Tyler Kroft,TE,0,0,2,9,100,Rutgers
+86,David Johnson,RB,1,1,3,42,92,Northern Iowa
+87,Sammie Coates,WR,0,0,0,4,44,Auburn
+88,Danielle Hunter,DE,0,5,7,83,157,LSU
+89,Sean Mannion,QB,0,0,0,2,14,Oregon St.
+90,Carl Davis,DT,0,0,1,13,78,Iowa
+91,Chaz Green,T,0,0,0,7,39,Florida
+92,Jeff Heuerman,TE,0,0,3,5,51,Ohio St.
+93,Henry Anderson,DE,0,0,4,21,89,Stanford
+94,Ty Montgomery,WR,0,0,1,17,92,Stanford
+95,Matt Jones,RB,0,0,0,9,25,Florida
+96,Xavier Cooper,DT,0,0,0,4,40,Washington St.
+97,Geneo Grissom,DE,0,0,0,3,37,Oklahoma
+98,Steven Nelson,CB,0,0,7,36,130,Oregon St.
+99,Paul Dawson,ILB,0,0,0,1,16,TCU
+100,Angelo Blackson,DT,0,0,1,23,129,Auburn
+101,Trey Flowers,DE,0,0,4,34,79,Arkansas
+102,Daryl Williams,G,0,0,5,39,89,Oklahoma
+103,Bryce Petty,QB,0,0,0,4,10,Baylor
+104,James Sample,S,0,0,0,1,4,Louisville
+105,Jamison Crowder,WR,0,0,4,33,123,Duke

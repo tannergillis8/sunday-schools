@@ -1,0 +1,104 @@
+pick,player,pos,AP1,PB,St,wAV,G,college
+1,Kyler Murray,QB,0,2,5,71,90,Oklahoma
+2,Nick Bosa,DE,1,5,5,58,87,Ohio St.
+3,Quinnen Williams,DT,1,4,6,57,110,Alabama
+4,Clelin Ferrell,DE,0,0,4,24,101,Clemson
+5,Devin White,LB,0,1,6,51,102,LSU
+6,Daniel Jones,QB,0,0,6,52,87,Duke
+7,Josh Hines-Allen,LB,0,2,6,45,111,Kentucky
+8,T.J. Hockenson,TE,0,2,4,33,101,Iowa
+9,Ed Oliver,DT,0,0,5,43,98,Houston
+10,Devin Bush Jr.,LB,0,0,4,37,102,Michigan
+11,Jonah Williams,G,0,0,5,37,74,Alabama
+12,Rashan Gary,LB,0,1,5,36,111,Michigan
+13,Christian Wilkins,DT,0,0,5,35,86,Clemson
+14,Chris Lindstrom,G,0,4,6,49,109,Boston Col.
+15,Dwayne Haskins,QB,0,0,0,4,16,Ohio St.
+16,Brian Burns,DE,0,3,6,53,117,Florida St.
+17,Dexter Lawrence,DT,0,3,6,55,113,Clemson
+18,Garrett Bradbury,C,0,0,7,41,109,North Carolina St.
+19,Jeffery Simmons,DT,1,4,7,62,103,Mississippi St.
+20,Noah Fant,TE,0,0,5,26,113,Iowa
+21,Darnell Savage Jr.,S,0,0,6,24,97,Maryland
+22,Andre Dillard,T,0,0,1,12,69,Washington St.
+23,Tytus Howard,T,0,0,6,36,97,Alabama St.
+24,Josh Jacobs,RB,1,3,7,57,105,Alabama
+25,Marquise Brown,WR,0,0,4,39,91,Oklahoma
+26,Montez Sweat,DE,0,1,6,48,113,Mississippi St.
+27,Johnathan Abram,S,0,0,2,13,55,Mississippi St.
+28,Jerry Tillery,DT,0,0,2,26,117,Notre Dame
+29,L.J. Collier,DE,0,0,2,16,71,TCU
+30,Deandre Baker,CB,0,0,1,6,26,Georgia
+31,Kaleb McGary,T,0,0,6,39,93,Washington
+32,N'Keal Harry,WR,0,0,1,7,49,Arizona St.
+33,Byron Murphy,CB,0,1,6,40,108,Washington
+34,Rock Ya-Sin,CB,0,0,1,17,100,Temple
+35,Jawaan Taylor,T,0,0,7,42,115,Florida
+36,Deebo Samuel,WR,1,1,6,52,101,South Carolina
+37,Greg Little,T,0,0,0,8,31,Mississippi
+38,Cody Ford,T,0,0,1,22,99,Oklahoma
+39,Sean Murphy-Bunting,CB,0,0,3,24,82,Central Michigan
+40,Trayvon Mullen,CB,0,0,2,11,46,Clemson
+41,Dalton Risner,T,0,0,6,30,105,Kansas St.
+42,Drew Lock,QB,0,0,1,14,43,Missouri
+43,Jahlani Tavai,LB,0,0,4,34,111,Hawaii
+44,Elgton Jenkins,C,0,2,6,48,99,Mississippi St.
+45,Joejuan Williams,CB,0,0,0,3,42,Vanderbilt
+46,Greedy Williams,CB,0,0,1,8,39,LSU
+47,Marquise Blair,S,0,0,0,2,26,Utah
+48,Erik McCoy,C,0,2,5,35,92,Texas A&M
+49,Ben Banogu,LB,0,0,0,4,50,TCU
+50,Irv Smith Jr.,TE,0,0,0,9,54,Alabama
+51,A.J. Brown,WR,0,3,7,73,106,Mississippi
+52,Drew Sample,TE,0,0,4,7,99,Washington
+53,Miles Sanders,RB,0,1,4,34,88,Penn St.
+54,Lonnie Johnson Jr.,CB,0,0,0,11,92,Kentucky
+55,Max Scharping,T,0,0,3,18,81,Northern Illinois
+56,Mecole Hardman,WR,0,1,0,23,82,Georgia
+57,JJ Arcega-Whiteside,WR,0,0,0,2,40,Stanford
+58,Trysten Hill,DT,0,0,0,5,34,Central Florida
+59,Parris Campbell,WR,0,0,1,9,50,Ohio St.
+60,Nasir Adderley,S,0,0,3,13,50,Delaware
+61,Taylor Rapp,S,0,0,4,25,93,Washington
+62,Andy Isabella,WR,0,0,0,4,43,Massachusetts
+63,Juan Thornhill,S,0,0,5,24,97,Virginia
+64,D.K. Metcalf,WR,0,2,7,57,116,Mississippi
+65,Zach Allen,DE,1,1,6,52,99,Boston Col.
+66,Diontae Johnson,WR,0,1,5,35,89,Toledo
+67,Jalen Hurd,WR,0,0,0,,,Baylor
+68,Jachai Polite,LB,0,0,0,1,11,Florida
+69,Josh Oliver,TE,0,0,3,7,85,San Jose St.
+70,Darrell Henderson,RB,0,0,1,15,54,Memphis
+71,Dre'Mont Jones,DT,0,0,5,33,111,Ohio St.
+72,Germaine Pratt,LB,0,0,7,45,112,North Carolina St.
+73,David Montgomery,RB,0,0,5,49,109,Iowa St.
+74,Devin Singletary,RB,0,0,5,39,112,Florida Atlantic
+75,Jace Sternberger,TE,0,0,0,1,18,Texas A&M
+76,Terry McLaurin,WR,0,2,7,51,110,Ohio St.
+77,Chase Winovich,DE,0,0,0,11,56,Michigan
+78,Michael Deiter,G,0,0,2,16,92,Wisconsin
+79,David Long,CB,0,0,0,7,80,Michigan
+80,Sione Takitaki,LB,0,0,1,19,86,BYU
+81,Will Harris,S,0,0,4,18,103,Boston Col.
+82,Nate Davis,G,0,0,5,27,71,Charlotte
+83,Justin Layne,CB,0,0,0,3,52,Michigan St.
+84,Khalen Saunders,DT,0,0,1,17,77,Western Illinois
+85,Jaylon Ferguson,DE,0,0,1,8,38,Louisiana Tech
+86,Kahale Warring,TE,0,0,0,0,9,San Diego St.
+87,Damien Harris,RB,0,0,3,16,44,Alabama
+88,Cody Barton,LB,0,0,4,28,116,Utah
+89,Bobby Okereke,LB,0,0,7,39,114,Stanford
+90,Connor McGovern,G,0,1,4,37,98,Penn St.
+91,Trey Pipkins,T,0,0,3,33,98,Sioux Falls
+92,Chuma Edoga,T,0,0,0,12,62,USC
+93,Miles Boykin,WR,0,0,2,6,73,Notre Dame
+94,Jamel Dean,CB,0,0,5,27,100,Auburn
+95,Oshane Ximines,DE,0,0,0,8,50,Old Dominion
+96,Dawson Knox,TE,0,1,7,25,106,Mississippi
+97,Bobby Evans,T,0,0,0,7,35,Oklahoma
+98,Quincy Williams,S,1,0,6,41,100,Murray St.
+99,Mike Edwards,S,0,0,1,16,89,Kentucky
+100,Will Grier,QB,0,0,0,1,2,West Virginia
+101,Yodny Cajuste,T,0,0,0,4,17,West Virginia
+102,Alexander Mattison,RB,0,0,1,21,89,Boise St.
+103,Hakeem Butler,WR,0,0,0,0,2,Iowa St.
